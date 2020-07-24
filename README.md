@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there, I'm [Krishaay!](https://github.com/krishaayjoi21) 👋
 
-<!--
-**krishaayjois21/krishaayjois21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.youtube.com/channel/UC05YwLEhM9hvB4SgC5HN3cA">
+  <img align="left" alt="Krishaay Jois | YouTube" width="20px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/youtube.png" />
+</a>
+<a href="https://twitter.com/Joiskrishaay">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/twitter.png" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Krishaay Jois , I am a YouTuber and a student in high school.
+
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/html.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/css.svg"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/arduino.svg"></code>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishaayjois21&theme=radical&hide=glsl,python" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishaayjois21&show_icons=true&theme=radical&line_height=27&v=5" alt="Anurag's github stats" />
+
+
+*Credit: Thanks to [Anurag Hazra!](https://anuraghazra.github.io) for his awesome [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) repo for the readme template and the stats cards
