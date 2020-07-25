@@ -9,15 +9,12 @@
 <a href="https://github.com/krishaayjois21">
   <img align="left" alt="Krishaay's Github" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/github.png" />
 </a>
+<img align="left" alt="Krishaay's Github" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/discord.svg" /> KrishaayJois#8941
 
 <br />
 <br />
 
 Hi, I'm Krishaay Jois , I am a YouTuber , Sofware Developer and a high school student.
-
-**Contact Me**<br />
-<img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/discord.svg"> *KrishaayJois#8941*
-
 
 **Languages and Tools:**  
 
