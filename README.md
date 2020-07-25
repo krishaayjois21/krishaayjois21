@@ -15,6 +15,8 @@
 
 Hi, I'm Krishaay Jois , I am a YouTuber , Sofware Developer and a high school student.
 
+**Contact Me**
+<code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/discord.png"></code> *KrishaayJois#8941*
 
 
 **Languages and Tools:**  
@@ -25,6 +27,8 @@ Hi, I'm Krishaay Jois , I am a YouTuber , Sofware Developer and a high school st
 <code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/html.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/css.svg"></code>    
 <code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/arduino.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/mysql.png"></code>
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishaayjois21&theme=radical&hide=glsl,python" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishaayjois21&show_icons=true&theme=radical&line_height=27&v=5" alt="Anurag's github stats" />
