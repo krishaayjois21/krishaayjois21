@@ -27,7 +27,7 @@ Hi, I'm Krishaay Jois , I am a YouTuber , Sofware Developer and a high school st
 <code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/mysql.png"></code>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishaayjois21&theme=radical&hide=glsl,python" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishaayjois21&theme=radical&hide=Dockerfile" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishaayjois21&show_icons=true&theme=radical&line_height=27&v=5" alt="Anurag's github stats" />
 
 
