@@ -4,13 +4,16 @@
   <img align="left" alt="Krishaay Jois | YouTube" width="20px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/youtube.png" />
 </a>
 <a href="https://twitter.com/Joiskrishaay">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/twitter.png" />
+  <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/twitter.png" />
+</a>
+<a href="https://github.com/krishaayjois21">
+  <img align="left" alt="Krishaay's Github" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/github.png" />
 </a>
 
 <br />
 <br />
 
-Hi, I'm Krishaay Jois , I am a YouTuber and a student in high school.
+Hi, I'm Krishaay Jois , I am a YouTuber , Sofware Developer and a high school student.
 
 
 
