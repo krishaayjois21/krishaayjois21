@@ -15,7 +15,7 @@
 
 Hi, I'm Krishaay Jois , I am a YouTuber , Sofware Developer and a high school student.
 
-**Contact Me**
+**Contact Me**<br />
 <code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/discord.png"></code> *KrishaayJois#8941*
 
 
