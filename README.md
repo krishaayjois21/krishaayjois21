@@ -30,7 +30,6 @@ Hi, I'm Krishaay Jois , I am a YouTuber , Sofware Developer and a high school st
 
 **Learning***
 
-<code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/java.png"></code>
 <code><img height="20" src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/java.png"></code>
@@ -40,7 +39,7 @@ Hi, I'm Krishaay Jois , I am a YouTuber , Sofware Developer and a high school st
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishaayjois21&theme=radical&hide=Dockerfile" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishaayjois21&show_icons=true&theme=onedark&line_height=27&v=5" alt="Anurag's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishaayjois21&show_icons=true&theme=radical&line_height=27&v=5" alt="Anurag's github stats" />
 
 
 *Credit: Thanks to [Anurag Hazra!](https://anuraghazra.github.io) for his awesome [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) repo for the readme template and the stats cards
