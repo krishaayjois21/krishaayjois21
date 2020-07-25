@@ -9,6 +9,10 @@
 <a href="https://github.com/krishaayjois21">
   <img align="left" alt="Krishaay's Github" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/github.png" />
 </a>
+<a href="https://medium.com/@krishaayjois">
+  <img align="left" alt="Krishaay's Github" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/medium.svg" />
+</a>
+
 <img align="left" alt="Krishaay's Github" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/discord.svg" /> KrishaayJois#8941
 
 <br />
