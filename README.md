@@ -1,4 +1,4 @@
-### Hi there, I'm [Krishaay!](https://github.com/krishaayjoi21) 👋
+### Hi there, I'm [Krishaay!](https://github.com/krishaayjois21) 👋
 
 <a href="https://www.youtube.com/channel/UC05YwLEhM9hvB4SgC5HN3cA">
   <img align="left" alt="Krishaay Jois | YouTube" width="20px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/youtube.png" />
