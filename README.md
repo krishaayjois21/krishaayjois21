@@ -28,7 +28,7 @@ Hi, I'm Krishaay Jois , I am a YouTuber , Sofware Developer and a high school st
 <code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/docker.png"></code>
 
 
-**Learning***
+**Learning:**
 
 <code><img height="20" src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/bootstrap.png"></code>
