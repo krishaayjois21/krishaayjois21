@@ -44,4 +44,5 @@ Hi, I'm Krishaay Jois , I am a YouTuber , Sofware Developer and a high school st
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishaayjois21" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishaayjois21&show_icons=true&line_height=27&v=5" alt="Krishaay's Github Stats" />
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishaayjois21&repo=eve-hauling-discord)](https://github.com/krishaayjois21/eve-hauling-discord)
