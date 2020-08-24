@@ -12,13 +12,17 @@
 <a href="https://medium.com/@krishaayjois">
   <img align="left" alt="Krishaay's Github" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/medium.svg" />
 </a>
+<a href="https://www.reddit.com/user/Krysis_21">
+  <img align="left" alt="Krishaay's Reddit" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/reddit.png" />
+</a>
 
-<img align="left" alt="Krishaay's Github" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/discord.svg" /> KrishaayJois#8941
+
+<img align="left" alt="Krishaay's Github" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/discord.svg" /> Synthwave#2956
 
 <br />
 <br />
 
-Hi, I'm Krishaay Jois , I am a YouTuber , Sofware Developer and a high school student.
+I'm a YouTuber , Sofware Developer and a high school student.
 
 **Languages and Tools:**  
 
