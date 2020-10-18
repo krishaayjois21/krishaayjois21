@@ -1,28 +1,25 @@
-### Hi there, I'm [Krishaay!](https://github.com/krishaayjois21) 👋
+## Hi there, I'm [Krishaay!](https://github.com/krishaayjois21) 👋
 
-<a href="https://www.youtube.com/channel/UC05YwLEhM9hvB4SgC5HN3cA">
-  <img align="left" alt="Krishaay Jois | YouTube" width="20px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/youtube.png" />
-</a>
-<a href="https://twitter.com/Joiskrishaay">
-  <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/twitter.png" />
-</a>
-<a href="https://github.com/krishaayjois21">
-  <img align="left" alt="Krishaay's Github" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/github.png" />
-</a>
-<a href="https://medium.com/@krishaayjois">
-  <img align="left" alt="Krishaay's Github" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/medium.svg" />
-</a>
-<a href="https://www.reddit.com/user/Krysis_21">
-  <img align="left" alt="Krishaay's Reddit" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/reddit.png" />
-</a>
+### I'm a YouTuber , Sofware Developer , Maker and a high school student.
+<br>
 
+**Social Media**
 
-<img align="left" alt="Krishaay's Github" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/discord.svg" /> Synthwave#2956
+[![YouTube](https://img.shields.io/static/v1?label=Youtube&message=Subscribe&color=FF0000&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC05YwLEhM9hvB4SgC5HN3cA)
+
+[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=FOLLOW&color=1991DA&style=for-the-badge&logo=twitter)](https://twitter.com/Joiskrishaay)
+
+[![Medium](https://img.shields.io/static/v1?label=MEDIUM&message=FOLLOW&color=ffffff&style=for-the-badge&logo=medium)](https://medium.com/@krishaayjois)
+
+[![Reddit](https://img.shields.io/static/v1?label=Reddit&message=Follow&color=FF4501&style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Krysis_21)
+
+[![GitHub followers](https://img.shields.io/github/followers/krishaayjois21.svg?style=for-the-badge&label=Follow&maxAge=2592000?label=FOLLWERS&logo=github)](https://github.com/krishaajois21?tab=followers)
+
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=Chat&color=7289da&style=for-the-badge&logo=discord)]()
 
 <br />
-<br />
 
-I'm a YouTuber , Sofware Developer and a high school student.
+I'm a YouTuber , Sofware Developer , Maker and a high school student.
 
 **Languages and Tools:**  
 
@@ -47,6 +44,8 @@ I'm a YouTuber , Sofware Developer and a high school student.
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishaayjois21" />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishaayjois21&show_icons=true&line_height=27&v=5" alt="Krishaay's Github Stats" />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishaayjois21&repo=eve-hauling-discord)](https://github.com/krishaayjois21/eve-hauling-discord)
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=krishaayjois21&repo=eve-hauling-discord)](https://github.com/krishaayjois21/eve-hauling-discord)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishaayjois21&repo=nyx)](https://github.com/krishaayjois21/nyx)
