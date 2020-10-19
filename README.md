@@ -9,6 +9,9 @@
 
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=FOLLOW&color=1991DA&style=for-the-badge&logo=twitter)](https://twitter.com/Joiskrishaay)
 
+[![Instagram](https://img.shields.io/static/v1?label=INSTAGRAM&message=FOLLOW&color=E1306C&style=for-the-badge&logo=instagram)](https://instagram.com/synthwave21)
+
+
 [![Medium](https://img.shields.io/static/v1?label=MEDIUM&message=FOLLOW&color=ffffff&style=for-the-badge&logo=medium)](https://medium.com/@krishaayjois)
 
 [![Reddit](https://img.shields.io/static/v1?label=Reddit&message=Follow&color=FF4501&style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Krysis_21)
