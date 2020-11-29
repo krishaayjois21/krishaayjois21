@@ -6,18 +6,11 @@
 **Social Media**
 
 [![YouTube](https://img.shields.io/static/v1?label=Youtube&message=Subscribe&color=FF0000&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC05YwLEhM9hvB4SgC5HN3cA)
-
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=FOLLOW&color=1991DA&style=for-the-badge&logo=twitter)](https://twitter.com/Joiskrishaay)
-
 [![Instagram](https://img.shields.io/static/v1?label=INSTAGRAM&message=FOLLOW&color=E1306C&style=for-the-badge&logo=instagram)](https://instagram.com/synthwave21)
-
-
 [![Medium](https://img.shields.io/static/v1?label=MEDIUM&message=FOLLOW&color=ffffff&style=for-the-badge&logo=medium)](https://medium.com/@krishaayjois)
-
 [![Reddit](https://img.shields.io/static/v1?label=Reddit&message=Follow&color=FF4501&style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Krysis_21)
-
 [![GitHub followers](https://img.shields.io/github/followers/krishaayjois21.svg?style=for-the-badge&label=Follow&maxAge=2592000?label=FOLLWERS&logo=github)](https://github.com/krishaajois21?tab=followers)
-
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=Chat&color=7289da&style=for-the-badge&logo=discord)]()
 
 <br />
@@ -34,7 +27,7 @@ I'm a YouTuber , Sofware Developer , Maker and a high school student.
 <code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/arduino.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/docker.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/gcp.png"></code>
 
 **Learning:**
 
