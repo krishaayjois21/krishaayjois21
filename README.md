@@ -39,9 +39,19 @@ I'm a YouTuber , Sofware Developer , Maker and a high school student.
 <code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/react.png"></code>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishaayjois21" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishaayjois21&theme=radical" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishaayjois21&show_icons=true&line_height=27&v=5" alt="Krishaay's Github Stats" />
+<br>
 
-[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=krishaayjois21&repo=eve-hauling-discord)](https://github.com/krishaayjois21/eve-hauling-discord)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishaayjois21&repo=nyx)](https://github.com/krishaayjois21/nyx)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishaayjois21&show_icons=true&line_height=27&v=5&theme=radical" alt="Krishaay's Github Stats" />
+
+<br>
+
+<a href="https://github.com/krishaayjois21/eve-hauling-discord"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishaayjois21&repo=eve-hauling-discord&theme=radical" alt="Krishaay's Github Stats" />
+</a>
+
+<br>
+
+<a href="https://github.com/krishaayjois21/nyx">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishaayjois21&repo=discordpy-template&theme=radical">
+</a>
