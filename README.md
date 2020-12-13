@@ -12,7 +12,7 @@
 [![Reddit](https://img.shields.io/static/v1?label=Reddit&message=Follow&color=FF4501&style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Krysis_21)
 [![GitHub followers](https://img.shields.io/github/followers/krishaayjois21.svg?style=for-the-badge&label=Follow&maxAge=2592000?label=FOLLWERS&logo=github)](https://github.com/krishaajois21?tab=followers)
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=Chat&color=7289da&style=for-the-badge&logo=discord)]()
-
+[![Hashnode](https://img.shields.io/static/v1?label=Hashnode&message=FOLLOW&color=2858df&style=for-the-badge&logo=hashnode)](krishaayjois.hashnode.dev)
 <br />
 
 I'm a YouTuber , Sofware Developer , Maker and a high school student.
