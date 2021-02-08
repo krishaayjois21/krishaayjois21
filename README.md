@@ -15,7 +15,7 @@
 [![Hashnode](https://img.shields.io/static/v1?label=Hashnode&message=FOLLOW&color=2858df&style=for-the-badge&logo=hashnode)](krishaayjois.hashnode.dev)
 <br />
 
-I'm a YouTuber , Sofware Developer , Maker and a high school student.
+I am a Full Stack Developer, Innovator, Aspiring Techpreneur, YouTuber, Blogger and Student!
 
 **Languages and Tools:**  
 
