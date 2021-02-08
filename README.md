@@ -1,6 +1,6 @@
 ## Hi there, I'm [Krishaay!](https://github.com/krishaayjois21) 👋
 
-### I'm a YouTuber , Software Developer , Maker and a high school student.
+### I am Full Stack Developer, Innovator, Aspiring Techpreneur, YouTuber, Blogger and Student!
 <br>
 
 **Social Media**
